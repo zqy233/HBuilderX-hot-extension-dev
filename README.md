@@ -6,5 +6,5 @@
 
 ## todo
 
-- 判断当前项目时 hbuilderx 插件，所有项目内的文件保存触发重新运行
+- 判断当前项目是 hbuilderx 插件，所有项目内的文件保存触发重新运行
 - 比如可以根据 package.json 中的字段来判断是否是 hbuilderx 插件
