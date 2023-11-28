@@ -1,0 +1,20 @@
+{
+  "id": "hot-extension-dev",
+  "name": "hot-extension-dev",
+  "description": "hot-extension-dev",
+  "displayName": "hot-extension-dev",
+  "version": "0.0.1",
+  "publisher": "zqy233",
+  "engines": {
+    "HBuilderX": "^2.7.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "main": "./extension",
+  "contributes": {},
+  "extensionDependencies": [
+    "plugin-manager"
+  ],
+  "dependencies": {}
+}
